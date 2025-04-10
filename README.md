@@ -19,5 +19,3 @@
   <a href="https://linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white" alt="Linux"></a>
   <a href="https://www.google.com/intl/en_ca/chromebook/chrome-os/"><img src="https://img.shields.io/badge/chrome%20os-3d89fc?logo=google%20chrome&logoColor=white" alt="ChromeOS"></a>
 </p>
-
-![image](https://github.com/user-attachments/assets/450a2d31-6fe4-4a2f-93a0-9b40baa86e07)
