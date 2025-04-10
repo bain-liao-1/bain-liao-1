@@ -1,5 +1,7 @@
 <h2>Hi there 👋</h2>
 
+<p>I am Bain and I'm a student at <a href="http://mths.ca">St. Mother Teresa HS</a>, Ottawa, Canada.</p>
+
 <h1>✍ Programming Languages</h1>
 <p>
   <a href="https://github.com/search?q=user%3Abain-liao-1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
